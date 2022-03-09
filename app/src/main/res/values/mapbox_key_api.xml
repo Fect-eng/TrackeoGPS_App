@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mapboxKey" templateMergeStrategy="preserve" translatable="false">
+        pk.eyJ1IjoiZWR3YXJkc3Rhcm90aDEyNDUiLCJhIjoiY2wwZXAzaG5xMGw0bTNpbnlsNWIwNHFybyJ9.6a5ckr50atR4Oiauieaj0A
+    </string>
+
+</resources>
